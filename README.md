@@ -206,6 +206,6 @@ The project concluded that the three plant leaves contain amino acids considered
 
 ## Project Background
 
-This project was completed as a Bachelor of Science (B.Sc.) research project in the Department of Biochemistry, Faculty of Medical Sciences, University of Jos, Plateau State, Nigeria, in April 2019.
+This project was completed as a Bachelor of Science (B.S.) research project in the College of sciences, School of Chemistry and BIochemistry, Georgia Institute of Technology (Georgia Tech) in Atlanta
 
 The research provided practical experience in biochemical laboratory procedures, analytical sample preparation, amino acid profiling, experimental data interpretation, and scientific research documentation.
